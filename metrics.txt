@@ -1,0 +1,15 @@
+Train accuracy: 0.9152
+Test accuracy: 0.8362
+
+Test classification report:
+              precision    recall  f1-score   support
+
+     drizzle       0.00      0.00      0.00        11
+         fog       0.40      0.10      0.16        20
+        rain       0.96      0.91      0.94       129
+        snow       0.33      0.20      0.25         5
+         sun       0.77      0.97      0.86       128
+
+    accuracy                           0.84       293
+   macro avg       0.49      0.44      0.44       293
+weighted avg       0.79      0.84      0.80       293
